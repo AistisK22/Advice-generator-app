@@ -15,7 +15,7 @@ body {
 
 #inner {
   background-color: hsl(217, 19%, 24%);
-  padding: 15px 15px 45px 15px;
+  padding: 40px 40px 65px 40px;
   border-radius: 10px;
   max-width: 450px;
   position: relative;
@@ -24,8 +24,9 @@ body {
 h5 {
   text-align: center;
   color: hsl(150, 100%, 66%);
-  letter-spacing: 2px;
-  font-size: 10px;
+  letter-spacing: 4px;
+  font-size: 12px;
+  font-family: 'Manrope', sans-serif;
 }
 
 p {
@@ -37,8 +38,8 @@ p {
 
 #icon {
   background-color: hsl(150, 100%, 66%);
-  padding: 15px;
-  border-radius: 25px;
+  padding: 20px;
+  border-radius: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,6 +51,6 @@ p {
 
 #try {
   position: absolute;
-  bottom: -1.6rem;
-  left: 13.1rem;
+  bottom: -1.8rem;
+  left: 14.4rem;
 }

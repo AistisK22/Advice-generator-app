@@ -33,10 +33,10 @@ export default function Card() {
           <div id="inner">
             <h5>ADVICE #{advice.slip.id}</h5>
             <p>"{advice.slip.advice}"</p>
-            <img src="https://raw.githubusercontent.com/msachs77/advicetool/a98267697f1b99b0f34d28908c5f4f0e1a9914a8/pattern-divider-desktop.svg" />
+            <img src="https://raw.githubusercontent.com/AistisK22/Advice-generator-app/cd5edf04cec26940e44c994393523299a0a3e6f2/pattern-divider-desktop.svg" />
             <div id="try">
               <div onClick={() => getAdvice()} id="icon">
-                <img src="https://raw.githubusercontent.com/msachs77/advicetool/a98267697f1b99b0f34d28908c5f4f0e1a9914a8/icon-dice.svg" />
+                <img src="https://raw.githubusercontent.com/AistisK22/Advice-generator-app/cd5edf04cec26940e44c994393523299a0a3e6f2/icon-dice.svg" />
               </div>
             </div>
           </div>
